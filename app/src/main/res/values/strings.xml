@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">PM2E10179</string>
+    <string name="resp"> Responsable </string>
+    <string name="respName"> Carlos Wilberto Rodriguez Ruiz </string>
+    <string name="iniMain"> Iniciar </string>
+    <string name="paisC"> Pais </string>
+    <string name="nameC"> Nombre </string>
+    <string name="telC"> Telefono </string>
+    <string name="notaC"> Nota </string>
+    <string name="saveCon"> Salvar Contacto </string>
+    <string name="savedCon"> Contactos Salvados </string>
+    <string name="shareC"> Compartir Contacto </string>
+    <string name="viewImg"> Ver Imagen </string>
+    <string name="delC"> Eliminar Contacto </string>
+    <string name="updtC"> Actualizar Contacto </string>
+    <string name="contact"> Contacto a compartir </string>
+    <string name="opc"> Escoja una opcion </string>
+    <string name="call"> llamar</string>
+    <string name="ok"> Si </string>
+    <string name="no" > No </string>
 </resources>
